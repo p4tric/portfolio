@@ -1,7 +1,7 @@
 ---
 date: '2017-09-01'
 title: 'Senior Software Developer'
-company: 'Spiralworks Technologies'
+company: 'Spiralworks'
 location: 'Makati City, Philippines'
 range: 'September - November 2017'
 url: 'http://www.spiralwrks.com/'

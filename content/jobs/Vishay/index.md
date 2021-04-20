@@ -1,7 +1,7 @@
 ---
 date: '2011-09-01'
 title: 'Java Web Developer'
-company: 'Vishay Philippines'
+company: 'Vishay'
 location: 'Makati City, Philippines'
 range: 'September 2011 - March 2014'
 url: 'https://www.vishay.com/'

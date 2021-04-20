@@ -1,7 +1,7 @@
 ---
 date: '2007-06-01'
 title: 'VB6/Java Web Developer'
-company: 'Cubepoint Philippines'
+company: 'Cubepoint'
 location: 'Ortigas Center Pasig City, Philippines'
 range: 'June 2007 - September 2011'
 url: 'https://www.cubepoint.be/'

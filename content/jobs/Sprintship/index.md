@@ -1,7 +1,7 @@
 ---
 date: '2014-03-01'
 title: 'Senior Mobile Application Developer'
-company: 'Sprintship Philippines'
+company: 'Sprintship'
 location: 'Taguig City, Philippines'
 range: 'March 2014 - February 2016'
 url: 'https://www.sprintship.com/'

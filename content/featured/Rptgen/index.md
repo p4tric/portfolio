@@ -5,12 +5,12 @@ cover: './featured.png'
 github: 'https://github.com/p4tric'
 external: 'https://rptgen.net/revamp'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
   - React
   - Ant Design
   - CRACO
+  - Java Spring Boot
+  - NodeJS
+  - MongoDB
 showInProjects: true
 ---
 
