@@ -1,10 +1,10 @@
 ---
 date: '2018-01-11'
 title: 'Frontend Developer'
-company: 'Wizlah'
+company: 'Sunray'
 location: 'Singapore'
-range: 'January 2018 - Present'
-url: 'https://www.wizlah.com/'
+range: 'January 2018 - April 2021'
+url: 'https://www.sunray.com.sg/'
 ---
 
 - Write industry standard and maintainable code for a diverse array of features within internal projects.

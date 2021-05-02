@@ -57,10 +57,7 @@ const Hero = () => {
   const three = <h4 className="medium-heading">I do stuff for web and mobile.</h4>;
   const four = (
     <p>
-      I'm a full stack developer who specializes in building (and occasionally designing)
-      exceptional digital systems. Currently, I'm a frontend developer at{' '}
-      <a href="https://wizlah.com/">Wizlah</a> focused on building e-commerce,
-      and administrative projects.
+      I'm a full stack developer who specializes in building exceptional digital systems.
     </p>
   );
   const five = (

@@ -132,7 +132,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'React', 'Python', 'Flutter', 'Node.js', 'Next.js', 'Three.js'];
+  const skills = ['JavaScript (ES6+)', 'React', 'Python', 'Java', 'Node.js', 'Next.js', 'PHP'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -148,12 +148,12 @@ const About = () => {
             </p>
 
             <p>
-              Fast-forward to today, I'm privilege to work in{' '}
-              <a href="https://wizlah.com">a furniture 3D company</a>,{' '}
+              Fast-forward to today, I'm privileged to experience working in{' '}
+              <a href="https://sunray.com.sg">a furniture 3D construction company</a>,{' '}
               <a href="https://www.sprintship.com/">a start-up</a>,{' '}
               <a href="https://www.vishay.com/">a global corporation</a>, and{' '}
               <a href="https://cloudemployee.co.uk/">a group of professional software engineers</a>. My
-              main focus these days are building bots, e-commerce, enterprise applications
+              main focus these days are building bots, web and enterprise applications
               for a variety of clients.
             </p>
 
