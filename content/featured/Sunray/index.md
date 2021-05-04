@@ -2,8 +2,8 @@
 date: '5'
 title: 'React 3D preview component'
 cover: './featured.png'
-github: 'https://github.com/p4tric'
-external: 'https://hub.wizlah.com/products/1300328396360409088/3d'
+github: 'https://github.com/p4tric/three-preview'
+external: 'https://hapichair.com/preview-3d'
 tech:
   - React
   - ThreeJS
