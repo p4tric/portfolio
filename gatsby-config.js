@@ -1,12 +1,12 @@
 const config = require('./src/config');
 
 module.exports = {
-  pathPrefix: `/p4tric`,
+  pathPrefix: `/portfolio`,
   siteMetadata: {
     title: 'Patrick Christopher Antonio S Cruz',
     description:
       'Patrick Christopher Antonio S Cruz is a full stack developer who specializes in building (and occasionally designing) exceptional web applications.',
-    siteUrl: 'https://hapichair.com/p4tric', // No trailing slash allowed!
+    siteUrl: 'https://p4tric.ph/portfolio', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@p4tric',
   },
